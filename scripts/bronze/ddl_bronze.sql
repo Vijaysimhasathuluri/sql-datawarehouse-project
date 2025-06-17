@@ -1,6 +1,6 @@
 /*
 ============================================================================
-DDL Script: Creat Bronze Tables
+DDL Script: Create Bronze Tables
 ============================================================================
 Script Purpose:
   This Script Creates tables in the 'bronze' schema, dropping existing tables
@@ -17,7 +17,7 @@ CREATE TABLE bronze.crm_cust_info (
  cst_key NVARCHAR(50),
  cst_firstname NVARCHAR(50),
  cst_lastname NVARCHAR(50),
- cst_material_status NVARCHAR(50),
+ cst_marital_status NVARCHAR(50),
  cst_gndr NVARCHAR(50),
  cst_create_date DATE
 );
