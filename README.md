@@ -101,9 +101,9 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-
-Hi there! I'm **Vijaysimha Sathuluri**. I’m a Data Engineer to share knowledge and make working with data enjoyable and engaging!
+This Hi there! I'm **Vijaysimha Sathuluri**. I’m a Data Engineer to share knowledge and make working with data enjoyable and engaging!
 Thankyou
+
 ---
 
 
